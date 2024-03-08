@@ -1,4 +1,4 @@
-![image](https://github.com/NellBaZZ/web_lab6/assets/117501803/a48905cf-e7d5-48da-ae97-d87993fd5418)1) Запустил файл: app.py
+1) Запустил файл: app.py
 
 ![image](https://github.com/NellBaZZ/web_lab6/assets/117501803/5ccd7bc9-72a4-47d9-a06f-c5baf9c7c6e7)
 
